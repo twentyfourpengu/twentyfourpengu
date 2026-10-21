@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twentyfourpengu
-- 🌱 I’m currently learning javascript
+- 🌱 I’m doing a cyber security bootcamp and search for job opportunity in Munich!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like penguins a lot
 
